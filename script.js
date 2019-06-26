@@ -1,15 +1,10 @@
 var products = [
-  {name: "Mecor Upholstered Faux Leather Platform Bed ", price: "169", image: "https://m.media-amazon.com/images/I/813epeJ6gjL._AC_UL320_.jpg"},
-  {name: "Tall headboard platform bed", price: "165", image: "https://m.media-amazon.com/images/I/61580K9ckxL._AC_UL320_.jpg"},
-  {name: "CASTLECREEK Cedar Log Bed", price: "290", image: "https://m.media-amazon.com/images/I/91VTlaWCqSL._AC_UL320_.jpg"},
-  {name: "Modern Contemporary Wave-Like Curve Upholstered Platform Bed ", price: "220", image: "https://m.media-amazon.com/images/I/71CNB7LBigL._AC_UL320_.jpg"},
-  {name: "Multipurpose Modern Rectangular Computer and study Table", price: "46", image: "https://m.media-amazon.com/images/I/71HFi86BtlL._AC_UL320_.jpg"},
-  {name: "Smart Home 151344CT Chloe Living Room Coffee Table", price: "23", image: "https://m.media-amazon.com/images/I/51S1modwnML._AC_UL320_.jpg"},
-  {name: "Tribesigns Dining Table with Two Benches, 3 Pieces Dining Set Kitchen Table Set with Metal Base for Small Spaces", price: "209", image: "https://m.media-amazon.com/images/I/61UsFAH7-7L._AC_UL320_.jpg"},
-  {name: "Sofa Sectional Sofa Bed Living Room ", price: "23", image: "https://m.media-amazon.com/images/I/71iV6kGJfxL._AC_UL320_.jpg"},
-  {name: "Mecor Loveseat Sofa Couch  ", price: "276", image: "https://m.media-amazon.com/images/I/712J1H09-uL._AC_UL320_.jpg"}
-
-
+  {name: "Wonder Woman Figurine", price: "12", image: "https://s3.amazonaws.com/mernbook/marketplace/wonder-woman-2977918_960_720.jpg"},
+  {name: "Darth Vader Figurine", price: "19", image: "https://s3.amazonaws.com/mernbook/marketplace/star-wars-2463926_960_720.png"},
+  {name: "Joker Figurine", price: "51", image: "https://s3.amazonaws.com/mernbook/marketplace/joker-1225051_960_720.jpg"},
+  {name: "Tardis Figurine", price: "14", image: "https://s3.amazonaws.com/mernbook/marketplace/tardis.png"},
+  {name: "Old Ford Car Model", price: "46", image: "https://s3.amazonaws.com/mernbook/marketplace/Ford.jpg"},
+  {name: "Storm Trooper Figurine", price: "23", image: "https://s3.amazonaws.com/mernbook/marketplace/stormtrooper-1995015_960_720.jpg"}
 ];
 var cart = {
   items: [],
